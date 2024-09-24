@@ -165,7 +165,7 @@
     text-align: center;
     font-size: 20px;
     font-weight: bold;
-    font-family: "Chalkboard SE", "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    font-family: "Chalkboard SE", "Comic Sans MS", "Comic Sans", sans-serif;
     top: 165px;
     left: 133px;
     z-index: 1;
@@ -270,7 +270,7 @@
     border: 3px solid rgb(125, 157, 251); /* border: blue color */
     border-radius: 20px;
     text-align: center;
-    font-family: "Chalkboard SE", "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    font-family: "Chalkboard SE", "Comic Sans MS", "Comic Sans", sans-serif;
     font-size: 18px;
     color: white;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
@@ -320,7 +320,7 @@
     text-align: center;
     padding: 15px 0;
     color: white;
-    font-family: "Chalkboard SE", "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    font-family: "Chalkboard SE", "Comic Sans MS", "Comic Sans", sans-serif;
     font-size: 14px;
     box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.2); /* Add a shadow to the top */
     z-index: 4;
